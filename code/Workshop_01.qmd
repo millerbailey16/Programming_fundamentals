@@ -1,0 +1,14 @@
+---
+title: "MB5370_Module1"
+author: "Bailey Miller"
+format: html
+editor: visual
+---
+
+```{r}
+#| message: false
+#| warning: false
+
+# Execute workshop 1 R script
+source("code/Module_01.R") # change the filepath/name if required 
+```
